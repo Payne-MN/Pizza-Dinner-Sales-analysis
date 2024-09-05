@@ -19,4 +19,4 @@ Analyze the cumulative revenue generated over time.
 Determine the top 3 most ordered pizza types based on revenue for each pizza category (In each category which pizza is the most selling)
 
 
-You may think of some more questions and try writing queries for them.
+More questions could be asked. But this will solve the most part of all sales concerning the pizza dinner.
